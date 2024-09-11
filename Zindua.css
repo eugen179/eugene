@@ -1,0 +1,63 @@
+h1 {
+    color: crimson;
+}
+
+p {
+    color: rgb(0, 0, 0);
+}
+
+h3 {
+    color: crimson;
+}
+
+h4 {
+    color: crimson;
+}
+
+h5 {
+
+    color: crimson;
+}
+
+h6 {
+    color: crimson;
+}
+
+#Somewhere {
+    background-color: none;
+    border: 2px red solid;
+}
+
+p {
+    margin: 10px;
+    font-size: 22px;
+    margin-left: 8px;
+}
+
+.log-in {
+    margin-left: 400ox;
+}
+
+.header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 52px;
+}
+h6{
+    color: aqua;
+    font-size: 60px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+P{
+    margin: 20px;
+
+}
+#para{
+    font-style: italic;
+    font-size: medium;
+}
