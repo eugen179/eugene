@@ -29,13 +29,13 @@ h6 {
 }
 
 p {
-    margin: 10px;
-    font-size: 22px;
-    margin-left: 8px;
+    margin: 10;
+    font-size: 20;
+    margin-left: 20px;
 }
 
 .log-in {
-    margin-left: 400ox;
+    margin-left: ;
 }
 
 .header {
@@ -43,21 +43,41 @@ p {
 }
 
 h1 {
-    font-size: 52px;
+    font: size 20px; px;
 }
 h6{
-    color: aqua;
-    font-size: 60px;
+    color: red;
+    font-size: 30px;
     text-align: center;
 }
 p{
     text-align: center;
 }
 P{
-    margin: 20px;
+    margin: 10px;
 
 }
 #para{
     font-style: italic;
     font-size: medium;
+}
+.card-body{
+    display: flex;
+    gap: 30px;
+    justify-items: right;
+    background-color: rgb(247, 239, 230);
+}
+.card_p{
+    flex: 90%;
+}
+.img{
+    display: flex;
+    justify-content: right;
+}
+.last{
+    background-color: rgb(247, 239, 230);
+}
+.section1{
+    background-color: black;
+    text-align: center;
 }
